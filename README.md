@@ -1,4 +1,4 @@
-Começando a trabalhar com o git com repositorio remoto no GITHUB.
+Git com repositorio remoto no GITHUB.
 
 Modulo-04
 
